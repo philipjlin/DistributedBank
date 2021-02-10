@@ -1,0 +1,9 @@
+server-output.txt
+
+Creating Bank with no Accounts...
+Bank Created.
+
+Connecting Server Socket to port...
+Server Socket Created.
+
+Waiting to accept a client...

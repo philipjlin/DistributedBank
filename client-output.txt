@@ -1,0 +1,177 @@
+client-output.txt
+
+Creating Bank with no Accounts...
+Bank Created.
+
+Connecting Server Socket to port...
+Server Socket Created.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
+Client connected.
+
+Running new command execution thread.
+
+Thread Run, Closing Client Socket.
+
+Waiting to accept a client...
