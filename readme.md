@@ -2,7 +2,7 @@
 
 
 ## Repository
-<https://github.com/philipjlin/Distributed_Bank>
+<https://github.com/philipjlin/DistributedBank>
 
 
 ## Description
